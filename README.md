@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **peraput2545@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFPs_GI6uc/Dc_OsTkHWweumNZKlYfOcw/edit?analyticsCorrelationId=b8ac6b17-9b64-4861-b04a-4144d13a3e2a](https://www.canva.com/design/DAFPs_GI6uc/Dc_OsTkHWweumNZKlYfOcw/edit?analyticsCorrelationId=b8ac6b17-9b64-4861-b04a-4144d13a3e2a)
-
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
