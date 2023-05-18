@@ -80,6 +80,6 @@
 
 ###
 
-<p align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newpheeraphat&" alt="newpheeraphat" /></p></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newpheeraphat&" alt="newpheeraphat" /></p>
 
 ###
