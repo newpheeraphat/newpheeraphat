@@ -22,7 +22,7 @@
 <h2 align="left">👩‍💻About me</h2>
 <p align="left">- ✨ Creating bugs since I was in middle school.<br>- 🌱 I’m currently learning **React, Road to Data Engineer, etc.**<br>- 🎯 Goals: **Data Engineer**<br>- 💬 Ask me about **React**<br>- 📫 How to reach me **peraput2545@gmail.com**<br>- ⚡ Fun fact **I think I am Funny**</p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">🖥️ Languages and Tools:</h2>
 
 
 <div align="left">
@@ -63,10 +63,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newpheeraphat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###  
+
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newpheeraphat&" alt="newpheeraphat" />
 </div>
 
-  <div align="center">
+###
+
+<div align="center">
   <img height="200" src="https://media.tenor.com/5SUdQj8_Fw4AAAAM/asd.gif"  />
 </div>
