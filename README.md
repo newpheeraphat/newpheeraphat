@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Pheeraphat Prisan</h1>
 
-###
-
-<p align="left">A student database management from Mahidol University</p>
+<h2 align="left">A student database management from Mahidol University</h2>
 
 <h2 align="left">About me</h2>
 
@@ -11,8 +9,6 @@
 <p align="left">- ✨ Creating bugs since I was in middle school.<br>- 🌱 I’m currently learning **React, Road to Data Engineer, etc.**<br>- 🎯 Goals: **Data Engineer**<br>- 💬 Ask me about **React**<br>- 📫 How to reach me **peraput2545@gmail.com**<br>- ⚡ Fun fact **I think I am Funny**</p>
 
 <h2 align="left">Connect with me</h2>
-
-###
 
 <p align="left">
 <a href="https://linkedin.com/in/pheeraphat prisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pheeraphat prisan" height="30" width="40" /></a>
@@ -51,11 +47,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/newpheeraphat/newpheeraphat/output/snake.svg" alt="Snake animation" />)
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/newpheeraphat/newpheeraphat/output/snake.svg" alt="Snake animation" />
+<div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31p3gnqsamatd4b4okmjhrq6mfs4">
@@ -63,17 +57,11 @@
   </a>
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=newpheeraphat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newpheeraphat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newpheeraphat&" alt="newpheeraphat" />
 </div>
-
-###
