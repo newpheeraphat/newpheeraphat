@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150"   src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Pheeraphat Prisan</h1>
@@ -53,13 +53,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/newpheeraphat/newpheeraphat/output/snake.svg" alt="Snake animation" />
 <div>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31p3gnqsamatd4b4okmjhrq6mfs4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p3gnqsamatd4b4okmjhrq6mfs4" alt="Spotify recently played"  />
-  </a>
-</div>
-
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=newpheeraphat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newpheeraphat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
