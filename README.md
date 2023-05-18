@@ -30,11 +30,9 @@
 <a href="https://www.hackerrank.com/newpheeraphat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="newpheeraphat" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pera2545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pera2545" height="30" width="40" /></a>
 </p>
-###
 
 <h2 align="left">Languages and Tools:</h2>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -70,6 +68,10 @@
 <div align="center">
   <a href="https://open.spotify.com/user/31p3gnqsamatd4b4okmjhrq6mfs4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p3gnqsamatd4b4okmjhrq6mfs4)
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p3gnqsamatd4b4okmjhrq6mfs4&count={count})
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p3gnqsamatd4b4okmjhrq6mfs4&width={width})
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p3gnqsamatd4b4okmjhrq6mfs4&unique={true|1|on|yes})
   </a>
 </div>
 
