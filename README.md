@@ -7,6 +7,7 @@
 
 <h2 align="left">👩‍💻About me</h2>
 
+## 🏆 GitHub Trophies
 <p align="left"><img src="https://komarev.com/ghpvc/?username=newpheeraphat&label=Profile%20views&color=0e75b6&style=flat" alt="newpheeraphat" /> </p><br><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newpheeraphat" alt="newpheeraphat" /></a> </p>
 
 <p align="left">- ✨ Creating bugs since I was in middle school.<br>- 🌱 I’m currently learning **React, Road to Data Engineer, etc.**<br>- 🎯 Goals: **Data Engineer**<br>- 💬 Ask me about **React**<br>- 📫 How to reach me **peraput2545@gmail.com**<br>- ⚡ Fun fact **I think I am Funny**</p>
