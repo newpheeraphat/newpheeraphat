@@ -67,11 +67,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31p3gnqsamatd4b4okmjhrq6mfs4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p3gnqsamatd4b4okmjhrq6mfs4)
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p3gnqsamatd4b4okmjhrq6mfs4&count={count})
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p3gnqsamatd4b4okmjhrq6mfs4&width={width})
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p3gnqsamatd4b4okmjhrq6mfs4&unique={true|1|on|yes})
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p3gnqsamatd4b4okmjhrq6mfs4" alt="Spotify recently played"  />
   </a>
 </div>
 
