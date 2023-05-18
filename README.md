@@ -53,7 +53,7 @@
 
 ###
 
-![Snake animation](https://github.com/newpheeraphat/newpheeraphat/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/newpheeraphat/newpheeraphat/output/snake.svg" alt="Snake animation" />)
 
 ###
 
