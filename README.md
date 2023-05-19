@@ -20,7 +20,7 @@
 <br><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newpheeraphat" alt="newpheeraphat" /></a> </p>
 
 <h2 align="left">👩‍💻About me</h2>
-<p align="left">- ✨ Creating bugs since I was in middle school.<br>- 🌱 I’m currently learning **React, Road to Data Engineer, etc.**<br>- 🎯 Goals: **Data Engineer**<br>- 💬 Ask me about **React**<br>- 📫 How to reach me **peraput2545@gmail.com**<br>- ⚡ Fun fact **I think I am Funny**</p>
+<p align="left">- ✨ Creating bugs since I was in middle school.<br>- 🌱 I’m currently learning <b>React, Road to Data Engineer, etc.</b><br>- 🎯 Goals: <b>Data Engineer</b><br>- 💬 Ask me about <b>React, Python, Javascript</b><br>- 📫 How to reach me <b>peraput2545@gmail.com</b><br>- ⚡ Fun fact **I think I am Funny**</p>
 
 <h2 align="left">🖥️ Languages and Tools:</h2>
 
